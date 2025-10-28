@@ -6,6 +6,12 @@ A sleek, modern dashboard interface for tracking The Odin Project's JavaScript c
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
 
+## Screen Shots Preview
+Desktop View:
+![Form Preview](./img/desktop_design.png)
+Mobile View:
+![Form Preview](./img/mobile_design.png)
+
 ## 🎯 Project Overview
 
 This is a **static design prototype** of a comprehensive course tracking dashboard. It features a modern dark theme with intuitive navigation and organized content sections for managing JavaScript learning progress.
@@ -19,10 +25,34 @@ This is a **static design prototype** of a comprehensive course tracking dashboa
 - **Resource Hub** - Quick access to learning resources
 - **Progress Visualization** - Clean status indicators for course projects
 
-## 🎮 Live Preview
-  
-### Online Demo
-🔗 **[View Live Demo](https://your-username.github.io/odin-js-dashboard)** 
+## 🧱 Project Structure
 
-*Replace with your actual GitHub Pages URL once deployed*
+├── index.html # Main HTML file (structure & content)
+├── style.css # Styling and layout definitions
+├── img/ # Folder containing icons and SVGs
+│ ├── logo.svg
+│ ├── search.svg
+│ ├── notify.svg
+│ ├── js.svg
+│ ├── ...etc
+└── fonts/
+├── Roboto-Regular.woff2
+├── Roboto-Bold.woff2
+├── Roboto-ExtraLight.woff2
+
+Customization
+
+- **To change the course name or profile info, edit the header-bottom section inside index.html.
+
+- **To add new projects or resources, duplicate the <div class="card"> elements inside their respective containers.
+
+- **Icons can be replaced in the img/ folder — just ensure filenames match.
+
+
+
+
+
+
+
+
 

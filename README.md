@@ -37,7 +37,7 @@ This is a **static design prototype** of a comprehensive course tracking dashboa
 │ ├── ...etc\
 └── fonts/\
 ├── Roboto-Regular.woff2\
-├── Roboto-Bold.woff2\
+├── Roboto-Bold.woff2
 ├── Roboto-ExtraLight.woff2\
 
 ## 🧩 Customization

@@ -27,18 +27,18 @@ This is a **static design prototype** of a comprehensive course tracking dashboa
 
 ## 🧱 Project Structure
 
-├── index.html # Main HTML file (structure & content)
-├── style.css # Styling and layout definitions
-├── img/ # Folder containing icons and SVGs
-│ ├── logo.svg
-│ ├── search.svg
-│ ├── notify.svg
-│ ├── js.svg
-│ ├── ...etc
-└── fonts/
-├── Roboto-Regular.woff2
-├── Roboto-Bold.woff2
-├── Roboto-ExtraLight.woff2
+├── index.html # Main HTML file (structure & content).
+├── style.css # Styling and layout definitions.
+├── img/ # Folder containing icons and SVGs.
+│ ├── logo.svg.
+│ ├── search.svg.
+│ ├── notify.svg.
+│ ├── js.svg.
+│ ├── ...etc.
+└── fonts/.
+├── Roboto-Regular.woff2.
+├── Roboto-Bold.woff2.
+├── Roboto-ExtraLight.woff2.
 
 ## 🧩 Customization
 

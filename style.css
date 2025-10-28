@@ -79,6 +79,7 @@ img{
     gap: 8px;
     flex-direction: column;
     justify-content: space-between;
+    border-left: 0.5rem solid #00ADB5;
 }
 
 .cards .card p{

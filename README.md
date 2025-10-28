@@ -14,7 +14,7 @@ A sleek, modern dashboard interface for tracking The Odin Project's JavaScript c
 
 ## 🎮 Live Preview
 
-**Live Demo:** [My website]([https://your-username.github.io/odin-js-dashboard](https://ah0m0ed.github.io/js_course_tracker/))
+**Live Demo:** [Demo](https://ah0m0ed.github.io/js_course_tracker/).
 
 ## 🎯 Project Overview
 

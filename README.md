@@ -40,13 +40,13 @@ This is a **static design prototype** of a comprehensive course tracking dashboa
 ├── Roboto-Bold.woff2
 ├── Roboto-ExtraLight.woff2
 
-Customization
+## 🧩 Customization
 
--**-To change the course name or profile info, edit the header-bottom section inside index.html.
+- To change the course name or profile info, edit the header-bottom section inside index.html.
 
-- **To add new projects or resources, duplicate the <div class="card"> elements inside their respective containers.
+- To add new projects or resources, duplicate the <div class="card"> elements inside their respective containers.
 
-- **Icons can be replaced in the img/ folder — just ensure filenames match.
+- Icons can be replaced in the img/ folder — just ensure filenames match.
 
 
 

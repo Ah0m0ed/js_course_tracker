@@ -48,11 +48,6 @@ This is a **static design prototype** of a comprehensive course tracking dashboa
 
 - Icons can be replaced in the img/ folder — just ensure filenames match.
 
+## 🧠 Inspiration
 
-
-
-
-
-
-
-
+This project is inspired by The Odin Project’s JavaScript Path, designed to help learners build hands-on dashboard UIs while practicing CSS Grid and Flexbox.

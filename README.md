@@ -27,7 +27,7 @@ This is a **static design prototype** of a comprehensive course tracking dashboa
 
 ## 🧱 Project Structure
 
-├── index.html # Main HTML file (structure & content).
+├── index.html # Main HTML file (structure & content)\
 ├── style.css # Styling and layout definitions.
 ├── img/ # Folder containing icons and SVGs.
 │ ├── logo.svg.

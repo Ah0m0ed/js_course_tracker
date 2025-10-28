@@ -12,6 +12,10 @@ A sleek, modern dashboard interface for tracking The Odin Project's JavaScript c
 ## Mobile View:
 ![Mobile Preview](./img/mobile_design.png)
 
+## 🎮 Live Preview
+
+**Live Demo:** [https://your-username.github.io/odin-js-dashboard](https://your-username.github.io/odin-js-dashboard)
+
 ## 🎯 Project Overview
 
 This is a **static design prototype** of a comprehensive course tracking dashboard. It features a modern dark theme with intuitive navigation and organized content sections for managing JavaScript learning progress.

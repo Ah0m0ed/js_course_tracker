@@ -42,7 +42,7 @@ This is a **static design prototype** of a comprehensive course tracking dashboa
 
 Customization
 
-- **To change the course name or profile info, edit the header-bottom section inside index.html.
+-**-To change the course name or profile info, edit the header-bottom section inside index.html.
 
 - **To add new projects or resources, duplicate the <div class="card"> elements inside their respective containers.
 

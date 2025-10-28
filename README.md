@@ -7,10 +7,10 @@ A sleek, modern dashboard interface for tracking The Odin Project's JavaScript c
 ![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
 
 ## Screen Shots Preview
-##Desktop View:
-![Form Preview](./img/desktop_design.png)
-##Mobile View:
-![Form Preview](./img/mobile_design.png)
+## Desktop View:
+![Desktop Preview](./img/desktop_design.png)
+## Mobile View:
+![Mobile Preview](./img/mobile_design.png)
 
 ## 🎯 Project Overview
 
